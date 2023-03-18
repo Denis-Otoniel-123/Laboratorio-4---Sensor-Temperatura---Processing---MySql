@@ -1,0 +1,12 @@
+Nota de Librerias
+--------------------------------------------------------------
+
+Librerias Arduino:
+
+tendras que instalar una libreria llamada "DHT sensor library by Adafruist" para que puedas usar correctamente
+el modulo de temperatura en el programa de arduino.
+
+--------------------------------------------------------------
+
+Librerias Processing:
+ librerias a usar son " Arduino(Firmata)" y "BezierSQLib" estas 2 facilitan la comunicacion entre el sql y porcessing
